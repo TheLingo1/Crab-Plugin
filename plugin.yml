@@ -1,0 +1,5 @@
+name: CrabGonePlugin
+main: io.github.thelingo1.CrabGoneCrab
+version: 1.0.9
+api-version: 1.16
+commands:
